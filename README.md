@@ -1,13 +1,13 @@
-** CMPE202-03 : SOFTWARE SYSTEMS ENGINEERING **
+**CMPE202-03 : SOFTWARE SYSTEMS ENGINEERING**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-** GROUP PROJECT:**   ** Airport Management System **             
+**GROUP PROJECT:**   **Airport Management System**             
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-** Tools and Languages:**
+**Tools and Languages:**
 
 - Frontend - ReactJS
 
