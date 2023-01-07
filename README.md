@@ -1,50 +1,5 @@
-**CMPE202-03 : SOFTWARE SYSTEMS ENGINEERING**
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**GROUP PROJECT:**   **Airport Management System**                                                                                                                       
+                                                                                                              
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-**TEAM NAME:** **Mavericks**
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**TEAM MEMBERS:**    
-
- ADITYA KUMAR (016009968)
-
- KAVAN SONI (016085966)
-
- RUSHIL SHAH (015908789)
-
- RUTUJA PALATKAR (015954718)
- 
- --------------------------------------------------------------------------------------------------------------------------------------------------------------
-              
-**SCRUM MEETING SCHEDULE:**
-
-Every Monday and Friday
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**XP Core Values Implemented:**
-
-- **Communication:** Maintained healthy communication throughout the project implementation and participated in weekly scrum calls to discuss progress.
-
-
-- **Simplicity:** Started with easy to understand functionality and scaled it up to meet project requirements
-
-
-- **Feedback:** Constructive feedback was provided by the team members on features that needed improvement. The feedback was very well received and were effectively implemented by the team members. Frequent reviews helped us solve bugs and make fixes easily.
-
-
-- **Courage:** We had the courage to incorporate any additional details/tasks that were required for the project progress.
-
-
-- **Respect:** Respected everyone’s input and implemented the solution that all agreed upon
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Tools and Languages:**
 
@@ -131,43 +86,6 @@ Every Monday and Friday
 - terminal
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Summary of contributions (for each team member):**
-
-**Aditya Kumar:**
-- Backend APIs for functionalities related to Airport Employees.
-- Frontend UI for Airport Employees.
-- Updated Readme.
-
-**Kavan Soni:**
-
-- UI wireframes
-- Backend APIs
-- Gate assignment logic
-- Gate freeing logic
-- Worked with team to resolve blockers
-- Updated Readme
-
-**Rushil Shah:**
-
-- Setting up repostories and codebase for server and client
-- Flight Addition and Updation
-- Dashboard
-- Routes mapping
-- Arrival and Departure lists
-- Updated Readme
-- Deployement
-
-**Rutuja Palatkar:**
-
-- UI wireframes
-- Class diagram for Flight 
-- Frontend UI
-- Gate assignment logic
-- Updated Readme
-- Gate freeing logic
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **ARCHITECTURE DIAGRAM:**
